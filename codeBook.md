@@ -10,18 +10,18 @@ tGravityAcc-XYZ
 tBodyAccJerk-XYZ  
 tBodyGyro-XYZ  
 tBodyGyroJerk-XYZ  
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+tBodyAccMag  
+tGravityAccMag  
+tBodyAccJerkMag  
+tBodyGyroMag  
+tBodyGyroJerkMag  
+fBodyAcc-XYZ  
+fBodyAccJerk-XYZ  
+fBodyGyro-XYZ  
+fBodyAccMag  
+fBodyAccJerkMag  
+fBodyGyroMag  
+fBodyGyroJerkMag  
 
 The measurements in xtest and xtrain are stored as numeric values. 
 
@@ -30,11 +30,11 @@ ytest and ytrain contain descriptive activity names that were added to the xtest
 After merging the xtest and xtrain data sets the columns containing mean and standard deviation
 were extracted and the values were averaged over activity. Here a list of the activities:
   
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+WALKING  
+WALKING_UPSTAIRS   
+WALKING_DOWNSTAIRS  
+SITTING  
+STANDING  
+LAYING  
 
 The resulting tidy data set has 80 columns (measurements) and 6 rows (activities).
