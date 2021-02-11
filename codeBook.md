@@ -5,11 +5,11 @@ containing descriptive variable names (features) (a link to the data you find in
 The measurements as stored in the features file were used to label the variables in xtest and xtrain.
 For the full list of measurements see the features file.  Here a summarized list of the measurements:
   
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
+tBodyAcc-XYZ  
+tGravityAcc-XYZ  
+tBodyAccJerk-XYZ  
+tBodyGyro-XYZ  
+tBodyGyroJerk-XYZ  
 tBodyAccMag
 tGravityAccMag
 tBodyAccJerkMag
